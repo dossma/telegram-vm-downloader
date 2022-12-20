@@ -2,7 +2,7 @@
 Download all voice messages from a Telegram channel.
 
 ## Motivation 
-If you like a channel where the owner shares interesting voice messages, but have not always the time to listen to them, you can hereby download and archive them on your computer. It is also useful as the channel may shut down at some point. 
+If you like a channel where the owner shares valuable voice messages, but have not always the time to listen to them, you can hereby download and archive them on your computer. Archiving can also be important in case the app or the channel shuts down.
 
 ## Procedure
 To use this program, it is beforehand required to have an API ID and an API hash which you can get from https://core.telegram.org/api/obtaining_api_id#obtaining-api-id. Read, understand and comply to the terms of Telegram's API service.
