@@ -1,4 +1,4 @@
-# telegram-voice-message-downloader
+# telegram-vm-downloader
 Download all voice messages from a Telegram channel.
 
 ## Motivation 
